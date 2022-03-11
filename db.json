@@ -1,19 +1,4 @@
 {
-  "blockDeeplinks": [
-    
-  ],
-  "whiteDomainlinks": [
-    "graph.facebook.com",
-    "www.facebook.com",
-    "nid.naver.com",
-    "openapi.naver.com",
-    "kauth.kakao.com",
-    "kapi.kakao.com",
-    "appleid.apple.com",
-    "m.sivillage.com",
-    "www.sivillage.com",
-    "siv-mo.design.overpass.co.kr"
-  ],
   "introImgs": [
     {
       "dt": "220300000160251",
@@ -36,59 +21,8 @@
   ],
   "verInfo": {
     "appOsTp": "1",
-    "appVer": "8.0",
-    "appTp": "3",
-    "sys_chk_start_dtime": "",
-    "sys_chk_end_dtime": "",
-    "sys_chk_msg": ""
+    "appVer": "1.0",
+    "appTp": "2",
   },
-  "domain": "https://m.sivillage.com",
-  "header": {
-    "r_code": "9999",
-    "showyn": "Y"
-  },
-  "normalPopup": {
-    "popup": [
-      {
-        "imgPath": "https://image.sivillage.com/upload/C00001/fckeditor/noti/202203/1646959092137.jpg",
-        "imgUrlMovePath": "https://m.sivillage.com/gate/goGate.siv?disp_divi_cd=20&rtnUrl=https://m.sivillage.com/event/initEventDetail.siv?event_no=E220307271"
-      },
-      {
-        "imgPath": "https://image.sivillage.com/upload/C00001/fckeditor/noti/202203/1646885988895.jpg",
-        "imgUrlMovePath": "/shop/initPlanShop.siv?disp_ctg_no=2203050167"
-      },
-      {
-        "imgPath": "https://image.sivillage.com/upload/C00001/fckeditor/noti/202202/1646027438340.jpg",
-        "imgUrlMovePath": "https://m.sivillage.com/jaju/event/initEventDetail.siv?event_no=E220207198"
-      }
-    ],
-    "popupSize": {
-      "width": 300,
-      "height": 390
-    },
-    "button": [
-      {
-        "textSize": 13,
-        "size": {
-          "width": 150,
-          "height": 40
-        },
-        "bgColor": "333333",
-        "action": "todayNoMore",
-        "text": "오늘 하루 보지 않기",
-        "textColor": "ffffff"
-      },
-      {
-        "textSize": 13,
-        "size": {
-          "width": 150,
-          "height": 40
-        },
-        "bgColor": "000000",
-        "action": "close",
-        "text": "닫기",
-        "textColor": "ffffff"
-      }
-    ]
-  }
+  
 }
